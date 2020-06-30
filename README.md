@@ -1,1 +1,2 @@
-# go_practice
+# goPractice
+some practice scripts
